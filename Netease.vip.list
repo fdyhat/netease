@@ -1,0 +1,8 @@
+http=100.100.100.100:10000, over-tls=false, fast-open=false, udp-relay=false, tag=公众号墨鱼手记-收费请举报
+http=os.tencentcdn.net:25000,over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🐟网易云解锁1
+http=pc.tencentcdn.net:35000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🐟网易云解锁2
+http=music.swcc.xyz:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=🐟网易云解锁3
+http=155.248.169.205:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🐟网易云解锁4
+http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🐟网易云解锁5
+http=42.193.231.48:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🐟网易云解锁6
+http=100.100.100.100:20000, over-tls=false, fast-open=false, udp-relay=false, tag=UpdateTime20220813
